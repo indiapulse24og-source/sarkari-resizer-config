@@ -1,1 +1,86 @@
-
+{
+  "lastUpdated": "2026-11-26",
+  "affiliateOffers": {
+    "SSC": {
+      "badge": "SSC CGL / CHSL Special",
+      "title": "Testbook Pass Pro — 70,000+ Mock Tests",
+      "subtitle": "Attempt live All-India SSC mocks with previous year papers.",
+      "ctaText": "Unlock Mock Pass →",
+      "url": "https://testbook.com"
+    },
+    "UPSC": {
+      "badge": "UPSC CSE 2027",
+      "title": "All-India UPSC Prelims Test Series",
+      "subtitle": "Full-length GS & CSAT mock tests with detailed solutions.",
+      "ctaText": "Start Free Mock →",
+      "url": "https://upsc.gov.in"
+    },
+    "Banking": {
+      "badge": "IBPS & SBI Prep",
+      "title": "Oliveboard Banking Mock Test Series",
+      "subtitle": "Speed tests and sectional mocks for Prelims & Mains.",
+      "ctaText": "Try Free Mock →",
+      "url": "https://oliveboard.in"
+    },
+    "Railway": {
+      "badge": "RRB NTPC & ALP",
+      "title": "Railway CBT-1 & CBT-2 Practice Pack",
+      "subtitle": "100+ full-length Railway mock tests in Hindi & English.",
+      "ctaText": "Start Practice →",
+      "url": "https://testbook.com"
+    },
+    "Default": {
+      "badge": "Exam Prep Resource",
+      "title": "Practice Full-Length Govt Exam Mocks",
+      "subtitle": "Boost your score with real exam-interface mock tests.",
+      "ctaText": "Explore Mocks →",
+      "url": "https://testbook.com"
+    }
+  },
+  "exams": [
+    {
+      "id": "ssc-cgl-2027",
+      "title": "SSC Combined Graduate Level (CGL)",
+      "board": "SSC",
+      "vacancies": "14,500+ Posts",
+      "lastDate": "2026-12-28",
+      "photoPresetId": "ssc-photo",
+      "signPresetId": "ssc-sign",
+      "portalUrl": "https://ssc.gov.in",
+      "specSummary": "Photo: 20–50KB (350×450px) | Sign: 10–20KB"
+    },
+    {
+      "id": "upsc-cse-2027",
+      "title": "UPSC Civil Services (IAS / IPS) Prelims",
+      "board": "UPSC",
+      "vacancies": "1,050+ Posts",
+      "lastDate": "2027-02-18",
+      "photoPresetId": "upsc-photo",
+      "signPresetId": "upsc-sign",
+      "portalUrl": "https://upsconline.nic.in",
+      "specSummary": "Photo & Sign: 20–300KB (Min 350×350px, Name + DOP required)"
+    },
+    {
+      "id": "rrb-ntpc-2026",
+      "title": "RRB NTPC Graduate & Undergraduate",
+      "board": "Railway",
+      "vacancies": "11,558 Posts",
+      "lastDate": "2026-12-15",
+      "photoPresetId": "rrb-photo",
+      "signPresetId": "ssc-sign",
+      "portalUrl": "https://www.rrbapply.gov.in",
+      "specSummary": "Photo: 20–50KB (White background mandatory) | Sign: 10–20KB"
+    },
+    {
+      "id": "ibps-so-clerk",
+      "title": "IBPS Clerk / Specialist Officer CRP",
+      "board": "Banking",
+      "vacancies": "6,100+ Posts",
+      "lastDate": "2026-12-21",
+      "photoPresetId": "ibps-photo",
+      "signPresetId": "ibps-sign",
+      "portalUrl": "https://www.ibps.in",
+      "specSummary": "Photo: 20–50KB (200×230px) | Sign: 10–20KB (140×60px)"
+    }
+  ]
+}
